@@ -1,6 +1,6 @@
 from sympy import Derivative, Integral, Symbol, pi, cos
 
-C = 971 % 10  # Constante
+C = 224 % 10  # Constante
 A = 0.15  # m - Amplitude
 F = 20  # Hz - Frequencia
 W = 2 * pi * F  # Frequência angular

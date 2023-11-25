@@ -1,6 +1,6 @@
 from sympy import Symbol, solve, sqrt, tan
 
-C = 971 % 10
+C = 224 % 10
 
 
 def print_result(x, i):
